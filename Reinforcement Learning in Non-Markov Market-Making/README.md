@@ -11,4 +11,4 @@ We formulate market making as an MDP, train a Soft Actor‑Critic agent on a dis
 
 **Reference:** Lalor, J. & Swishchuk, A. (2024). *Reinforcement learning in non‑Markov market making*. arXiv:2410.14504 / Risks 13(3):40 (2025).
 
-The source code is available upon request.
+The report and source code can be provided upon request.
