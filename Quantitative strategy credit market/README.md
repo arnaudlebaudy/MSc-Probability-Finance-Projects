@@ -13,4 +13,4 @@ We then build efficient frontiers using both the raw and the filtered covariance
 
 **Reference:** Laloux, L., Cizeau, P., Potters, M. & Bouchaud, J.P. (1999–2000). Random matrix theory and financial correlations.
 
-The source code is available upon request.
+The report and source code can be provided upon request.
