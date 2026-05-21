@@ -8,4 +8,4 @@ We track real reserves per tick, fees collected in both tokens, and total positi
 - Angeris, G., Kao, H.T., Chiang, R., Noyes, C. & Chitra, T. (2021). *An analysis of Uniswap markets*.  
 - Echenim, M., Gobet, E. & Maurice, A.C. (2025). *Uniswap v3: Impermanent Loss Modeling and Swap Fees Asymptotic Analysis*.
 
-The source code is available upon request.
+The report and source code can be provided upon request.
