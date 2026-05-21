@@ -10,3 +10,5 @@ We also extend the model to include proportional transaction costs (\( f = 0.1\%
 
 **References**  
 - Buehler, H., Gonon, L., Teichmann, J., & Wood, B. (2019). *Deep hedging*. Quantitative Finance.  
+
+The report and source code can be provided upon request.
